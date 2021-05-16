@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  color: rgb(124, 124, 124);
+  padding: 30px;
+}
+
+.App-link {
+  color: #61dafb;
+}
